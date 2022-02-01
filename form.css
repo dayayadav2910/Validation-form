@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@300&display=swap');
+
 *{
   box-sizing: border-box;
+  font-family: 'Source Serif 4', sans-serif;
 }
 body{
   background: linear-gradient(to bottom, #3366cc 0%, #003399 100%);
@@ -51,5 +54,12 @@ form input {
 }
 
 .submit-id input{
+  background: linear-gradient(to bottom, #3366cc 0%, #003399 100%);
   border-radius: 5px;
+  color: white;
+  border: 2px solid #3366cc;
+
 }
+
+
+
